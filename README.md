@@ -1,0 +1,1 @@
+# Lenovo-Ideapad-Gaming-3-Hackintosh
