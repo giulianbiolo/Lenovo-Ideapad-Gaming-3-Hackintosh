@@ -1,5 +1,14 @@
 # Lenovo-Ideapad-Gaming-3-Hackintosh
 
+### Abstract
+This is my own working Hackintosh EFI's for Catalina/Big Sur/Monterey. \
+I should thank nurdiny13 for it's great work on the matter,
+this repo is just an updated and tweaked version of his own. \
+You can find the original here:
+https://github.com/nurdiny13/LENOVO-IDEAPAD-GAMING-3i-Hackintosh-Opencore \
+I had to change some kexts / SSDT's to make everything work. \
+In particular I had to rewrite the patch for the touchpad and update WiFi / Bluetooth kexts to make everything work.
+
 ### Supported Devices
 > - **Lenovo Ideapad Gaming 3**
 ### MacOs supported versions
